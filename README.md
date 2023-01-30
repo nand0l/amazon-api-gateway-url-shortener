@@ -52,7 +52,7 @@ sam deploy -g
 ```
 
 #### Choose options
-You can choose the default for all options except *GithubRepository* and **
+You can choose the default for all options except *GithubRepository* and *Github Personal access token*
 
 ```bash
 ## The name of the CloudFormation stack
